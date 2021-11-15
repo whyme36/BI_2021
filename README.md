@@ -9,7 +9,7 @@ We chose race as the Y variable, from which we created a binary variable used in
 
 As X variables we used: age, date, signs_of_mental_illness, Median Income,poverty_rate, percent_completed_hs, share_white, share_black, share_native_american, share_asian, share_hispanic, threat_level, threat_level, gender
 
-#Purpose
+## Purpose
 Use of approaches:
 
 * Propensity score weighting

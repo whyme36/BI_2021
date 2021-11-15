@@ -1,4 +1,4 @@
-# LeetCode
+# Project, estimation
 
 ## Data
 The data used are from kaggle: https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us?select=PoliceKillingsUS.csv
